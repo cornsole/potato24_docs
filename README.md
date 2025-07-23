@@ -22,10 +22,7 @@ layout:
     visible: true
 ---
 
-# <figure><img src=".gitbook/assets/SPOILER__.png" alt=""><figcaption></figcaption></figure> PotatoServer Community
-
 ## 👋 감자서버에 오신것을 환영합니다.
-
 
 ***
 
