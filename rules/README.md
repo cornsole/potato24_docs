@@ -1,6 +1,6 @@
 ---
+description: Being happy never goes out of style.
 hidden: true
-icon: atom
 coverY: 0
 layout:
   width: wide
