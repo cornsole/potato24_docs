@@ -1,6 +1,7 @@
 ---
 description: Being happy never goes out of style.
 hidden: true
+cover: .gitbook/assets/image-1.png
 coverY: 0
 layout:
   width: wide
