@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: atom
 coverY: 0
 layout:
