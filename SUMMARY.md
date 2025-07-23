@@ -1,3 +1,3 @@
 # Table of contents
 
-* [PotatoServer Community](README.md)
+* [🗨️ PotatoServer Community](README.md)

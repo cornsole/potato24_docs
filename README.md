@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# PotatoServer Community
+# 🗨️ PotatoServer Community
 
 #### 👋 감자서버에 오신것을 환영합니다.
 
