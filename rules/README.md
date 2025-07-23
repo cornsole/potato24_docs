@@ -1,14 +1,15 @@
 ---
+icon: atom
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
