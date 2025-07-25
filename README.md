@@ -32,19 +32,13 @@ layout:
 
 🎮 서버 버전 : JE 1.21 - 1.21.7
 
-**BE접속 방법을 찾고 계신가요? 여기를 클릭해주세요 (링크삽입)**
-
-<sub>안녕하세요</sub>
-
-<sub>환영합니다</sub>
+<sub>BE접속 방법을 찾고 계신가요? 여기를 클릭해주세요 (링크삽입)</sub>
 
 ***
 
 #### 👥 감자서버 커뮤니티 참가하기
 
-파이선
-
-<figure><img src=".gitbook/assets/66e278299a53f5bf88615e90_Symbol.svg" alt="" width="30"><figcaption></figcaption></figure>
+discord<figure>디스코드<img src=".gitbook/assets/66e278299a53f5bf88615e90_Symbol.svg" alt="" width="30"><figcaption></figcaption></figure>
 
 ***
 
