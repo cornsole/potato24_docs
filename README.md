@@ -38,7 +38,7 @@ layout:
 
 #### 👥 감자서버 커뮤니티 참가하기
 
-discord<figure>디스코드<img src=".gitbook/assets/66e278299a53f5bf88615e90_Symbol.svg" alt="" width="30"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/66e278299a53f5bf88615e90_Symbol.svg" alt="" width="20"><figcaption>gg</figcaption></figure>
 
 ***
 
