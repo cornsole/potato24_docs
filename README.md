@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# 🗨️ PotatoServer Community
+# 🗨️ Potato Server Community
 
 ## 🗨️ PotatoServer Community
 
@@ -32,14 +32,15 @@ layout:
 
 🎮 서버 버전 : JE 1.21 - 1.21.7
 
-<sub>BE접속 방법을 찾고 계신가요? 여기를 클릭해주세요 (링크삽입)</sub>
+<sub>BE접속 방법을 찾고 계신가요?</sub> [<sub>여기를 클릭해주세요</sub>](📑/bedrockGuide.md)
 
 ***
 
 #### 👥 감자서버 커뮤니티 참가하기
 
-🔵 
-🟡
+[Discord](https://potato24.kr/discord)
+
+[KakaoTalk](https://open.kakao.com/o/gEuf9A1d)
 
 ***
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗨️ PotatoServer Community](README.md)
+* [🗨️ Potato Server Community](README.md)
 
 ## 📌 중요
 
